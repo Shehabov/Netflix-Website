@@ -4,27 +4,14 @@
    <img src="img/Preview.gif" alt="Logo" height=250 width=250/>
 </p>
 
-<p align='center'> 
-   <img src="https://img.shields.io/github/issues/sandip2224/My-Netflix-Clone?style=for-the-badge" />
-   <img src="https://img.shields.io/github/stars/sandip2224/My-Netflix-Clone?style=for-the-badge" />
-   <img src="https://img.shields.io/github/forks/sandip2224/My-Netflix-Clone?style=for-the-badge" />
-   <img src="https://img.shields.io/github/contributors/sandip2224/My-Netflix-Clone?style=for-the-badge" />
-   <img src="https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge" /><br>
-   <img src="https://img.shields.io/github/issues-pr/sandip2224/My-Netflix-Clone?color=purple&style=for-the-badge" />
-   <img src="https://img.shields.io/github/issues-pr-closed-raw/sandip2224/My-Netflix-Clone?color=purple&style=for-the-badge" /></a><br>
-</p>
-<p align="center">
-  <a href="https://github.com/sandip2224/My-Netflix-Clone"><strong>Explore the docs »</strong></a>
-</p>
-
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
-    <a href="https://github.com/sandip2224/My-Netflix-Clone">View Demo</a>
+    <a href="https://github.com/Shehabov/Netflix-Website">View Demo</a>
     ·
-    <a href="https://github.com/sandip2224/My-Netflix-Clone/issues">Report Bug</a>
+    <a href="https://github.com/Shehabov/Netflix-Website/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sandip2224/My-Netflix-Clone/issues">Request Feature</a>
+    <a href="https://github.com/Shehabov/Netflix-Website/issues">Request Feature</a>
   </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -85,7 +72,7 @@ To get a local copy up and running follow these simple example steps as mentione
 This website requires working knowledge of the following: 
 
 - [x] HTML 5 markup
-- [x] CSS 3 grids and overlays
+- [x] CSS 3 grids, Overlay and breakpoints
 - [x] JavaScript Event Listeners
 
 
@@ -95,8 +82,8 @@ This website requires working knowledge of the following:
 1. Fork and clone this repository using  
 
 ```
-  git clone https://github.com/sandipan_2224/My-Netflix-Clone.git
-  cd My-Netflix-Clone 
+  git clone https://github.com/Shehabov/Netflix-Website.git
+  cd Netflix-Website 
 ```  
 
 2. Open the folder inside a working HTML code editor and launch the `index.html` file.
@@ -121,16 +108,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request  
 
-
-<!-- CONTACT --> 
-
-<h2 align="center">Contact</h2>
-
-- **Hey guys, I'm Sandipan. Find out more about me** [ here](https://linkedin.com/in/sandipan0164)  
-- **Reach out to me at** [ sandipan2224@gmail.com](sandipan2224@gmail.com)  
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 
 <h2 align="center">Acknowledgements</h2>
@@ -139,4 +116,4 @@ Contributions are what make the open source community such an amazing place to b
 * [CSS docs](https://www.w3schools.com/css/default.asp)
 * [JavaScript basics](https://www.w3schools.com/js/default.asp)
 
-<h3 align="right">Built with :heart: by <em>Sandipan Das</em></h3>
+<h3 align="right">Built with :heart: by <em>Shehab Beram</em></h3>
