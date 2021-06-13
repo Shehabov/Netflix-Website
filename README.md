@@ -25,7 +25,6 @@
   - [Installation](#installation)
 - [License](#license)
 - [Contributing](#contributing)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 
